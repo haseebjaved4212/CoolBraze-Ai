@@ -49,7 +49,7 @@ and escalation stream in real time.
 ```bash
 mkdir coolbreeze-ai
 cd coolbreeze-ai
-git clone https://github.com/dev-rathankumar/coolbreeze-ai-public.git .
+git clone https://github.com/haseebjaved4212/CoolBraze-Ai.git .
 ```
 
 ### 2. Create and Activate Virtual Environment
