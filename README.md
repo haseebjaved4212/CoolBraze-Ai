@@ -156,4 +156,16 @@ Make sure you ran `python manage.py migrate` before `loaddata`.
 ---
 
 
+## contributing
 
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+© 2026 Haseeb Javed.
+
+
+--- 
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?key=1&width=400&height=40&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Haseeb+Javed" alt="Typing SVG" />
+</h3>
