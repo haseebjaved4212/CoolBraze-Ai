@@ -1,5 +1,3 @@
-[![Enroll on Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://dub.sh/djAI-ghb)
-
 # Build AI Employees with Django — Agentic AI for Developers
 
 A complete AI-powered customer support system built with Django, Claude API & RAG (Retrieval-Augmented Generation).
@@ -41,23 +39,8 @@ and escalation stream in real time.
 
 ---
 
-## Watch Demo
 
-🚀 [Watch Now](https://youtu.be/qyq0YGo10sU)
 
----
-
-## Want to Build This Yourself?
-
-This project is the outcome of my Django + Agentic AI course on Udemy.
-You'll build every single piece of this from scratch — agents, tools, 
-RAG, dashboard, SSE streaming, and full deployment.
-
-👉 [Enroll on Udemy](https://dub.sh/djAI-ghb)
-
-[![Enroll on Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://dub.sh/djAI-ghb)
-
----
 
 ## Setup Instructions
 
@@ -154,9 +137,9 @@ Admin Panel:        http://127.0.0.1:8000/admin/
 
 | Username | Password | Role |
 |----------|----------|------|
-| techwithrathan | techwithrathan | Customer |
-| fraud_test | techwithrathan | Test fraud detection |
-| admin | your superuser password | Staff dashboard |
+| haseeb | haseeb | Customer |
+| fraud_test | haseeb | Test fraud detection |
+| admin | admin12345 | Staff dashboard |
 
 ---
 
@@ -171,24 +154,6 @@ Make sure your `ANTHROPIC_API_KEY` is valid and has available credits.
 Make sure you ran `python manage.py migrate` before `loaddata`.
 
 ---
-## Want to Build This Yourself?
 
-Cloning this repo gives you the finished project — but building it 
-yourself is a completely different experience.
-
-When you build it from scratch, you'll be able to:
-
-- Explain exactly how the agent loop works in an interview
-- Describe how tool calling enables agents to make decisions
-- Walk through how RAG retrieves the right document chunks
-- Show how SSE streams live agent activity to the dashboard
-
-That's the difference between having a project and understanding a project.
-
-**This course teaches you to build every single piece of this from scratch.**
-You'll understand every line of code deeply enough to explain it, extend it,
-and build your own version. LangChain edition included as a free update.
-
-[![Enroll on Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://dub.sh/djAI-ghb)
 
 
