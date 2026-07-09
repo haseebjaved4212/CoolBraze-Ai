@@ -156,7 +156,7 @@ Make sure you ran `python manage.py migrate` before `loaddata`.
 ---
 
 
-## contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
